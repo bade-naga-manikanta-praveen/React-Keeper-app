@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Keeper-app/static/css/main.1882c5c6.css",
+    "main.js": "/React-Keeper-app/static/js/main.f921a610.js",
+    "index.html": "/React-Keeper-app/index.html",
+    "main.1882c5c6.css.map": "/React-Keeper-app/static/css/main.1882c5c6.css.map",
+    "main.f921a610.js.map": "/React-Keeper-app/static/js/main.f921a610.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1882c5c6.css",
+    "static/js/main.f921a610.js"
+  ]
+}
